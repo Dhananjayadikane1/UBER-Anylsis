@@ -27,7 +27,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/uber-analysis.git
+git clone https://github.com/Dhananjayadikane1/uber-analysis.git
 cd uber-analysis
 Install dependencies
 bash
